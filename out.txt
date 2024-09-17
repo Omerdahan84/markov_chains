@@ -1,0 +1,409 @@
+Random Walk 1: [1] -> [3] -> [8]-ladder to 30 -> [30] -> [32] -> [38] -> [40] -> [45] -> [46] -> [50] -> [52] -> [55] -> [57]-ladder to 83 -> [83] -> [85]-snake to 17 -> [17] -> [22] -> [23]-ladder to 76 -> [76] -> [81]-snake to 43 -> [43] -> [49] -> [52] -> [56] -> [60] -> [63] -> [66]-ladder to 89 -> [89] -> [91]-snake to 25 -> [25] -> [27] -> [33]-ladder to 70 -> [70] -> [71] -> [72] -> [78] -> [82] -> [84] -> [89] -> [91]-snake to 25 -> [25] -> [29] -> [33]-ladder to 70 -> [70] -> [76] -> [79]-ladder to 99 -> [99] -> [100]
+Random Walk 2: [1] -> [4] -> [10] -> [11] -> [17] -> [22] -> [24] -> [27] -> [30] -> [34] -> [37] -> [40] -> [45] -> [47] -> [51] -> [55] -> [58] -> [62] -> [65] -> [71] -> [76] -> [80] -> [82] -> [88] -> [89] -> [93] -> [94] -> [98] -> [99] -> [100]
+Random Walk 3: [1] -> [4] -> [7] -> [11] -> [14] -> [16] -> [17] -> [18] -> [21] -> [24] -> [25] -> [29] -> [35]-snake to 11 -> [11] -> [13]-snake to 4 -> [4] -> [5] -> [8]-ladder to 30 -> [30] -> [32] -> [37] -> [42] -> [43] -> [44] -> [50] -> [54] -> [59] -> [62] -> [67] -> [73] -> [77] -> [83] -> [86] -> [90] -> [91]-snake to 25 -> [25] -> [28]-ladder to 50 -> [50] -> [53] -> [56] -> [58] -> [62] -> [68] -> [73] -> [79]-ladder to 99 -> [99] -> [100]
+Random Walk 4: [1] -> [5] -> [7] -> [11] -> [17] -> [21] -> [27] -> [31] -> [33]-ladder to 70 -> [70] -> [75] -> [81]-snake to 43 -> [43] -> [44] -> [50] -> [55] -> [61]-snake to 14 -> [14] -> [17] -> [22] -> [26] -> [29] -> [35]-snake to 11 -> [11] -> [17] -> [18] -> [19] -> [24] -> [30] -> [35]-snake to 11 -> [11] -> [12] -> [18] -> [21] -> [23]-ladder to 76 -> [76] -> [80] -> [82] -> [88] -> [94] -> [99] -> [100]
+MarkovNode: 1
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 2
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 3
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1), 	 (1), 
+MarkovNode: 4
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1), 	 (1), 
+ (1), 
+MarkovNode: 5
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1), 	 (1), 
+ (1),  (1), 
+MarkovNode: 6
+this word is 0
+total words after 6
+	following words:  (1),  (1), 	 (1), 
+ (1),  (1),  (1), 
+MarkovNode: 7
+this word is 0
+total words after 6
+	following words:  (1), 	 (1), 
+ (1),  (1),  (1),  (1), 
+MarkovNode: 8
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 9
+this word is 0
+total words after 6
+	following words: 
+ (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 10
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 11
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 12
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 13
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 14
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 15
+this word is 0
+total words after 1
+	following words: / (1), 
+MarkovNode: 16
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 17
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 18
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 19
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 20
+this word is 0
+total words after 1
+	following words: ' (1), 
+MarkovNode: 21
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 22
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 23
+this word is 0
+total words after 1
+	following words: L (1), 
+MarkovNode: 24
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 25
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),  (1), 
+MarkovNode: 26
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),  (1),   (1), 
+MarkovNode: 27
+this word is 0
+total words after 6
+	following words:  (1),  (1),  (1),  (1),   (1), ! (1), 
+MarkovNode: 28
+this word is 0
+total words after 1
+	following words: 2 (1), 
+MarkovNode: 29
+this word is 0
+total words after 6
+	following words:  (1),  (1),   (1), ! (1), " (1), # (1), 
+MarkovNode: 30
+this word is 0
+total words after 6
+	following words:  (1),   (1), ! (1), " (1), # (1), $ (1), 
+MarkovNode: 31
+this word is 0
+total words after 6
+	following words:   (1), ! (1), " (1), # (1), $ (1), % (1), 
+MarkovNode: 32
+this word is 0
+total words after 6
+	following words: ! (1), " (1), # (1), $ (1), % (1), & (1), 
+MarkovNode: 33
+this word is 0
+total words after 1
+	following words: F (1), 
+MarkovNode: 34
+this word is 0
+total words after 6
+	following words: # (1), $ (1), % (1), & (1), ' (1), ( (1), 
+MarkovNode: 35
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 36
+this word is 0
+total words after 6
+	following words: % (1), & (1), ' (1), ( (1), ) (1), * (1), 
+MarkovNode: 37
+this word is 0
+total words after 6
+	following words: & (1), ' (1), ( (1), ) (1), * (1), + (1), 
+MarkovNode: 38
+this word is 0
+total words after 6
+	following words: ' (1), ( (1), ) (1), * (1), + (1), , (1), 
+MarkovNode: 39
+this word is 0
+total words after 6
+	following words: ( (1), ) (1), * (1), + (1), , (1), - (1), 
+MarkovNode: 40
+this word is 0
+total words after 6
+	following words: ) (1), * (1), + (1), , (1), - (1), . (1), 
+MarkovNode: 41
+this word is 0
+total words after 1
+	following words: > (1), 
+MarkovNode: 42
+this word is 0
+total words after 6
+	following words: + (1), , (1), - (1), . (1), / (1), 0 (1), 
+MarkovNode: 43
+this word is 0
+total words after 6
+	following words: , (1), - (1), . (1), / (1), 0 (1), 1 (1), 
+MarkovNode: 44
+this word is 0
+total words after 6
+	following words: - (1), . (1), / (1), 0 (1), 1 (1), 2 (1), 
+MarkovNode: 45
+this word is 0
+total words after 6
+	following words: . (1), / (1), 0 (1), 1 (1), 2 (1), 3 (1), 
+MarkovNode: 46
+this word is 0
+total words after 6
+	following words: / (1), 0 (1), 1 (1), 2 (1), 3 (1), 4 (1), 
+MarkovNode: 47
+this word is 0
+total words after 6
+	following words: 0 (1), 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 
+MarkovNode: 48
+this word is 0
+total words after 6
+	following words: 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 
+MarkovNode: 49
+this word is 0
+total words after 6
+	following words: 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 
+MarkovNode: 50
+this word is 0
+total words after 6
+	following words: 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 
+MarkovNode: 51
+this word is 0
+total words after 6
+	following words: 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 
+MarkovNode: 52
+this word is 0
+total words after 6
+	following words: 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), : (1), 
+MarkovNode: 53
+this word is 0
+total words after 6
+	following words: 6 (1), 7 (1), 8 (1), 9 (1), : (1), ; (1), 
+MarkovNode: 54
+this word is 0
+total words after 6
+	following words: 7 (1), 8 (1), 9 (1), : (1), ; (1), < (1), 
+MarkovNode: 55
+this word is 0
+total words after 6
+	following words: 8 (1), 9 (1), : (1), ; (1), < (1), = (1), 
+MarkovNode: 56
+this word is 0
+total words after 6
+	following words: 9 (1), : (1), ; (1), < (1), = (1), > (1), 
+MarkovNode: 57
+this word is 0
+total words after 1
+	following words: S (1), 
+MarkovNode: 58
+this word is 0
+total words after 6
+	following words: ; (1), < (1), = (1), > (1), ? (1), @ (1), 
+MarkovNode: 59
+this word is 0
+total words after 6
+	following words: < (1), = (1), > (1), ? (1), @ (1), A (1), 
+MarkovNode: 60
+this word is 0
+total words after 6
+	following words: = (1), > (1), ? (1), @ (1), A (1), B (1), 
+MarkovNode: 61
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 62
+this word is 0
+total words after 6
+	following words: ? (1), @ (1), A (1), B (1), C (1), D (1), 
+MarkovNode: 63
+this word is 0
+total words after 6
+	following words: @ (1), A (1), B (1), C (1), D (1), E (1), 
+MarkovNode: 64
+this word is 0
+total words after 6
+	following words: A (1), B (1), C (1), D (1), E (1), F (1), 
+MarkovNode: 65
+this word is 0
+total words after 6
+	following words: B (1), C (1), D (1), E (1), F (1), G (1), 
+MarkovNode: 66
+this word is 0
+total words after 1
+	following words: Y (1), 
+MarkovNode: 67
+this word is 0
+total words after 6
+	following words: D (1), E (1), F (1), G (1), H (1), I (1), 
+MarkovNode: 68
+this word is 0
+total words after 6
+	following words: E (1), F (1), G (1), H (1), I (1), J (1), 
+MarkovNode: 69
+this word is 0
+total words after 1
+	following words:   (1), 
+MarkovNode: 70
+this word is 0
+total words after 6
+	following words: G (1), H (1), I (1), J (1), K (1), L (1), 
+MarkovNode: 71
+this word is 0
+total words after 6
+	following words: H (1), I (1), J (1), K (1), L (1), M (1), 
+MarkovNode: 72
+this word is 0
+total words after 6
+	following words: I (1), J (1), K (1), L (1), M (1), N (1), 
+MarkovNode: 73
+this word is 0
+total words after 6
+	following words: J (1), K (1), L (1), M (1), N (1), O (1), 
+MarkovNode: 74
+this word is 0
+total words after 6
+	following words: K (1), L (1), M (1), N (1), O (1), P (1), 
+MarkovNode: 75
+this word is 0
+total words after 6
+	following words: L (1), M (1), N (1), O (1), P (1), Q (1), 
+MarkovNode: 76
+this word is 0
+total words after 6
+	following words: M (1), N (1), O (1), P (1), Q (1), R (1), 
+MarkovNode: 77
+this word is 0
+total words after 6
+	following words: N (1), O (1), P (1), Q (1), R (1), S (1), 
+MarkovNode: 78
+this word is 0
+total words after 6
+	following words: O (1), P (1), Q (1), R (1), S (1), T (1), 
+MarkovNode: 79
+this word is 0
+total words after 1
+	following words: c (1), 
+MarkovNode: 80
+this word is 0
+total words after 6
+	following words: Q (1), R (1), S (1), T (1), U (1), V (1), 
+MarkovNode: 81
+this word is 0
+total words after 1
+	following words: + (1), 
+MarkovNode: 82
+this word is 0
+total words after 6
+	following words: S (1), T (1), U (1), V (1), W (1), X (1), 
+MarkovNode: 83
+this word is 0
+total words after 6
+	following words: T (1), U (1), V (1), W (1), X (1), Y (1), 
+MarkovNode: 84
+this word is 0
+total words after 6
+	following words: U (1), V (1), W (1), X (1), Y (1), Z (1), 
+MarkovNode: 85
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 86
+this word is 0
+total words after 6
+	following words: W (1), X (1), Y (1), Z (1), [ (1), \ (1), 
+MarkovNode: 87
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 88
+this word is 0
+total words after 6
+	following words: Y (1), Z (1), [ (1), \ (1), ] (1), ^ (1), 
+MarkovNode: 89
+this word is 0
+total words after 6
+	following words: Z (1), [ (1), \ (1), ] (1), ^ (1), _ (1), 
+MarkovNode: 90
+this word is 0
+total words after 6
+	following words: [ (1), \ (1), ] (1), ^ (1), _ (1), ` (1), 
+MarkovNode: 91
+this word is 0
+total words after 1
+	following words:  (1), 
+MarkovNode: 92
+this word is 0
+total words after 6
+	following words: ] (1), ^ (1), _ (1), ` (1), a (1), b (1), 
+MarkovNode: 93
+this word is 0
+total words after 6
+	following words: ^ (1), _ (1), ` (1), a (1), b (1), c (1), 
+MarkovNode: 94
+this word is 0
+total words after 6
+	following words: _ (1), ` (1), a (1), b (1), c (1), d (1), 
+MarkovNode: 95
+this word is 0
+total words after 1
+	following words: C (1), 
+MarkovNode: 96
+this word is 0
+total words after 4
+	following words: a (1), b (1), c (1), d (1), 
+MarkovNode: 97
+this word is 0
+total words after 1
+	following words: : (1), 
+MarkovNode: 98
+this word is 0
+total words after 2
+	following words: c (1), d (1), 
+MarkovNode: 99
+this word is 0
+total words after 1
+	following words: d (1), 
+MarkovNode: 100
+this word is 1
+total words after 0
+	 no following words
